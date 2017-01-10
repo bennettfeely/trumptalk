@@ -1,4 +1,4 @@
-# President Trump Inaugural Address Generator
+# [President Trump Inaugural Address Generator](http://bennettfeely.com/trumptalk)
 
 ![Screenshot of Trump Inaugural Address Generator](http://bennettfeely.com/trumptalk/img/preview.png)
 
