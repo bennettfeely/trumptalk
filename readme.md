@@ -10,4 +10,4 @@ This generator takes actual quotes from various Donald Trump speeches, mashing t
 * HAML with [gulp-injectfile](https://www.npmjs.com/package/gulp-inject-file) to insert the relatively small CSS and JS into the main index.html file.
 * SCSS with [autoprefixer](https://www.npmjs.com/package/gulp-autoprefixer) and minified using [cssnano](https://www.npmjs.com/package/gulp-cssnano).
 * jQuery (may work on making this vanilla javascript later, wanted to release it as soon as possible though)
-* (realfavicongenerator](http://realfavicongenerator.net/) for all things icons.
+* [realfavicongenerator](http://realfavicongenerator.net/) for all things icons.
